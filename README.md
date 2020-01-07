@@ -4,7 +4,7 @@
 
 This tutorial covers the data import, manipulation, training and cross-validation of a random forest classifier, to predict the environmental impact of fish farming sites from benthic eukaryotes communities depicted by metabarcoding data (amplicon sequencing). The tutorial also cover feature selection to reduce the dimensionality of the data. Visual observation of macrobenthic species composition is used as a "ground truth" to deterùine the level of impact. The tutorial is done completely in R.
 
-__The R script [metaB_tutorial.R](https://github.com/trtcrd/Metabarcoding_school_colombia/blob/master/metaB_tutorial.R]) is commented with all the analytic steps.__
+__The R script [metaB_tutorial.R](https://github.com/trtcrd/Metabarcoding_school_colombia/blob/master/metaB_tutorial.R) is commented with all the analytic steps.__
 
 
 
